@@ -52,7 +52,7 @@ button:hover {
 
 
 #main-section {
-    background: url(/huddle-landing-page-with-alternating-feature-blocks-master/images/bg-hero-desktop.svg) no-repeat;
+    background: url("bg-hero-desktop.svg") no-repeat;
     background-attachment: fixed;
     background-size: cover;
     padding: 1rem;
